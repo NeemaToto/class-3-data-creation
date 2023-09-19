@@ -6,7 +6,7 @@
 3. npm install @rneui/themed @rneui/base
 
 ## React Native Elements
-Card Component
-Button Component
+1. Card Component
+2. Button Component
 
 
